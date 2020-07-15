@@ -79,6 +79,7 @@ RUN \
 	libxslt \
 	openssl \
 	p7zip \
+	vim \
 	python3 \
 	unrar \
 	wget && \
